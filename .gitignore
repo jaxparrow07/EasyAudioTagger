@@ -1,0 +1,5 @@
+.token
+config.js
+temp/
+node_modules/
+
