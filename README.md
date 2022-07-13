@@ -21,7 +21,7 @@ node app.js "file name"
 ```
 
 ## Demo
-[](demo.mp4)
+[![asciicast](https://asciinema.org/a/507491.svg)](https://asciinema.org/a/507491)
 
 ## Configuration
 These variables can be configured via `config.js` file
