@@ -44,16 +44,16 @@ Instructions for Last.fm:-<br>
   * Retreive the api key of the application, copy and paste it in the 'config.js' file
 
 ### # Options
-**_SEARCH_LIMIT_**:
-            Description: Number of items to show as options
-            Note: API limiations apply
-            Default: 5 ( to not make terminal flooded up )
-
-**_DEFAULT_SEARCH_**:
-            Description: The search to start with, can be switched after searching from menu too
-            Available options: last.fm or * ( anything ) to default spotify
-            Default: 'spotify'
-
+**_SEARCH_LIMIT_**:<br>
+            Description: Number of items to show as options<br>
+            Note: API limiations apply<br>
+            Default: 5 ( to not make terminal flooded up )<br>
+<br>
+**_DEFAULT_SEARCH_**:<br>
+            Description: The search to start with, can be switched after searching from menu too<br>
+            Available options: last.fm or * ( anything ) to default spotify<br>
+            Default: 'spotify'<br>
+<br>
 ## Extra Info
 If you want to run this script from anywhere ( without absolute path ). You can try ![adding this to **PATH**](https://linuxize.com/post/how-to-add-directory-to-path-in-linux/) or by creating an alias.<br>
 _Wrapper example_:
